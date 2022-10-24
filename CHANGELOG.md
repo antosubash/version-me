@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.3.0"></a>
+## [2.3.0](https://www.github.com/antosubash/version-me/releases/tag/v2.3.0) (2022-10-24)
+
+### Features
+
+* neat feat feat1 ([2ab0c26](https://www.github.com/antosubash/version-me/commit/2ab0c2675a922e27ee24d29e6c224bc27c435cb0))
+
+### Other
+
+* Merge pull request #3 from antosubash/dev ([f870783](https://www.github.com/antosubash/version-me/commit/f8707832bcd3e2b069d4e8ff599b5bff8a8216c6))
+
 <a name="2.2.0"></a>
 ## [2.2.0](https://www.github.com/antosubash/version-me/releases/tag/v2.2.0) (2022-10-24)
 
