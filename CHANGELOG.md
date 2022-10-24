@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.0"></a>
+## [2.0.0](https://www.github.com/antosubash/version-me/releases/tag/v2.0.0) (2022-10-24)
+
+### Features
+
+* new console message ([7cd7074](https://www.github.com/antosubash/version-me/commit/7cd70740a3ee81daef907b9459010410ddab6dad))
+
+### Breaking Changes
+
+* new console message ([7cd7074](https://www.github.com/antosubash/version-me/commit/7cd70740a3ee81daef907b9459010410ddab6dad))
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://www.github.com/antosubash/version-me/releases/tag/v1.1.1) (2022-10-24)
 
