@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.2.0"></a>
+## [2.2.0](https://www.github.com/antosubash/version-me/releases/tag/v2.2.0) (2022-10-24)
+
+### Features
+
+* added ci ([dbbdbb9](https://www.github.com/antosubash/version-me/commit/dbbdbb9203bff1dff8e9a28c2bd07a0623df3776))
+
+### Other
+
+* Merge pull request #1 from antosubash/dev ([7dbcb89](https://www.github.com/antosubash/version-me/commit/7dbcb89d4ab19e87d8cc90e59ef08abf090733ba))
+* Merge pull request #2 from antosubash/dev ([588c9b5](https://www.github.com/antosubash/version-me/commit/588c9b52323821c751da547beb38873e1dc8f93e))
+
 <a name="2.1.0"></a>
 ## [2.1.0](https://www.github.com/antosubash/version-me/releases/tag/v2.1.0) (2022-10-24)
 
