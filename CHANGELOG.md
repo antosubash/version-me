@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.1"></a>
+## [1.1.1](https://www.github.com/antosubash/version-me/releases/tag/v1.1.1) (2022-10-24)
+
+### Bug Fixes
+
+* console message updated ([66a41f1](https://www.github.com/antosubash/version-me/commit/66a41f11078ce45006a991f970306dcfd13b3ffd))
+
 <a name="1.1.0"></a>
 ## [1.1.0](https://www.github.com/antosubash/version-me/releases/tag/v1.1.0) (2022-10-24)
 
