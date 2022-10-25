@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.4.0"></a>
+## [2.4.0](https://www.github.com/antosubash/version-me/releases/tag/v2.4.0) (2022-10-25)
+
+### Features
+
+* added hooks.net ([5080f2f](https://www.github.com/antosubash/version-me/commit/5080f2fc3980de08ba2ce6e71a612fc788332985))
+
 <a name="2.3.0"></a>
 ## [2.3.0](https://www.github.com/antosubash/version-me/releases/tag/v2.3.0) (2022-10-24)
 
