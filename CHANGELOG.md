@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.5.0"></a>
+## [2.5.0](https://www.github.com/antosubash/version-me/releases/tag/v2.5.0) (2022-10-25)
+
+### Features
+
+* new feat 2 ([67fdbd5](https://www.github.com/antosubash/version-me/commit/67fdbd513d2f97ad6b0416125b5504fa0581decd))
+
+### Other
+
+* Merge pull request #4 from antosubash/husky ([66ab489](https://www.github.com/antosubash/version-me/commit/66ab489bd75c48f5146883ad362af89ececbd4c4))
+
 <a name="2.4.0"></a>
 ## [2.4.0](https://www.github.com/antosubash/version-me/releases/tag/v2.4.0) (2022-10-25)
 
