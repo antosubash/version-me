@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.5.1"></a>
+## [2.5.1](https://www.github.com/antosubash/version-me/releases/tag/v2.5.1) (2022-10-26)
+
+### Bug Fixes
+
+* updated the regex for commit lint ([2732b29](https://www.github.com/antosubash/version-me/commit/2732b294710cd17a75c9342e3bd2d80415a4ba85))
+
+### Other
+
+* new version ([cff409b](https://www.github.com/antosubash/version-me/commit/cff409b23cfec7d626b4888973db2449437dec60))
+* updated feat ([6d5a962](https://www.github.com/antosubash/version-me/commit/6d5a962326744e9d3e2f292b7a42c4544da0fd30))
+
 <a name="2.5.0"></a>
 ## [2.5.0](https://www.github.com/antosubash/version-me/releases/tag/v2.5.0) (2022-10-25)
 
